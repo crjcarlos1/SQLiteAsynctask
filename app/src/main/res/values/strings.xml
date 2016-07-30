@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="correoTelefono">Email o teléfono</string>
+    <string name="contrasenia">Password</string>
+    <string name="entrar">Entrar</string>
+    <string name="registro">Registro</string>
+
+    <string name="nombresRegistro">Nombre(s)</string>
+    <string name="apellidosRegistro">Apellido(s)</string>
+    <string name="correoRegistro">Email</string>
+    <string name="contraseniaRegistro">Password</string>
+    <string name="registrarseRegistro">Registrarse</string>
+    <string name="cancelarRegistro">Cancelar</string>
+    <string name="repetirCorreoRegistro">Repetir email</string>
+    <string name="repetirContrasenia">Repetir password</string>
+    <string name="usuarioOpasswordIncorecctos">Correo o Password no coinciden</string>
+    <string name="LlenarCampos">Llenar todos los campos</string>
+
+    <string name="sinConexionParaEscribir">No se pudo cenectar a la db para registrarse</string>
+    <string name="seRegistroCorrectamente">Se registro correctamente</string>
+    <string name="errorRegistro">Error al registrar</string>
+
+    <string name="nickname">Nickname</string>
+    <string name="repetirNickname">repetir Nickname</string>
+    <string name="tituloMenu">Mneú</string>
+    <string name="verInfo">Mostrar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="passOusuarioIncorrectos">Contraseña o usuario Incorrectos</string>
+    <string name="noSeRegistro">Error, no se registró</string>
+    <string name="contraseniasDiferentes">Contraseñas diferentes</string>
+    <string name="nicksDiferentes">Nombres diferentes</string>
+    <string name="ingresar">Ingresar</string>
+
+</resources>
